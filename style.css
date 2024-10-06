@@ -17,6 +17,12 @@ html, body {
 }
 
 .nav{
-    height: 50px;
+    height: 100px;
     background-color: red;
+}
+
+.nav1{
+    width: 60%;
+    height: 100%;
+    background-color: aqua;
 }
